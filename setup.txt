@@ -1,0 +1,12 @@
+*To use the RPC, you must have state and details. Everything else can be left blank. 
+*Run discordrpc.exe after setting up, remember to save!
+client_id=
+state=
+details=
+
+large image=
+small image=
+large text=
+small text=
+button label=
+button url=
