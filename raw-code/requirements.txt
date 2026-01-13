@@ -1,0 +1,6 @@
+pypresence==4.3.0
+requests>=2.32.3
+spotipy>=2.25.1
+win11toast
+psutil
+PyQt6
